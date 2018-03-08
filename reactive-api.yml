@@ -1,0 +1,4 @@
+worker:
+  sorter:
+    server: https://reactive-server.cfapps.io
+    route: /sortit
